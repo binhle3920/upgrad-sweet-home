@@ -1,0 +1,8 @@
+# api-gateway/src/main/resources/application.yml
+
+server:
+  port: 9191
+
+spring:
+  application:
+    name: api-gateway
